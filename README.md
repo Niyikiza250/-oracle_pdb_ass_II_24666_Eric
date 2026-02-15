@@ -138,3 +138,8 @@ DROP PLUGGABLE DATABASE er_to_delete_pdb_24666 INCLUDING DATAFILES;
 -- Step 5: Verify it's gone
 SELECT name FROM v$pdbs WHERE name = 'ER_TO_DELETE_PDB_24666';
 
+Repository (https://github.com/Niyikiza250/-oracle_pdb_ass_II_24666_Eric)
+PDB Name Created	ER_PDB_24666
+Issues Encountered	Yes
+Database Version	Oracle 19c
+Environment	Windows (D:\ORACLE_19C)
