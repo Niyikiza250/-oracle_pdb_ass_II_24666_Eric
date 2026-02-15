@@ -143,3 +143,11 @@ PDB Name Created	ER_PDB_24666
 Issues Encountered	Yes
 Database Version	Oracle 19c
 Environment	Windows (D:\ORACLE_19C)
+## Final Checklist (Apply Before Submission)
+- [ ] Correct PDB names used
+- [ ] User created inside the PDB
+- [ ] Temporary PDB created and deleted
+- [ ] OEM dashboard screenshot included
+- [ ] GitHub repository is PUBLIC
+- [ ] README is clear and professional
+- [ ] Deadline respected
